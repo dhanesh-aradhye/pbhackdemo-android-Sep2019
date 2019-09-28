@@ -1,4 +1,6 @@
-# WebViewexample
-init code
-Android WebView app Example in Kotlin -Complete gudie
-https://tutorial.eyehunts.com/android/android-webview-app-example-in-kotlin/
+Android app for showcasing project by Team Everest at Pitney Bowes Shipping Hackathon 2019 
+
+A Pawan Kumar
+Shantanu Joshi
+Rishabh Agarwal
+Dhanesh Aradhye
