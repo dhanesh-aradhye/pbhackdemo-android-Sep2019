@@ -1,3 +1,6 @@
+Demo APK Link: 
+https://github.com/dhanesh-aradhye/demo-html-Sep2019/raw/master/app-release.apk
+
 Objective: To enable user to print shipping label with least number of text entries and using third party address providers to quickly create labels.
 
 
